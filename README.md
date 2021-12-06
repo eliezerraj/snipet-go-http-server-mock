@@ -1,0 +1,1 @@
+# snipet-go-http-server-mock
